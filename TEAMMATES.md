@@ -6,4 +6,4 @@ Mã nhóm/phòng:
 
 | Họ và tên | MSSV | Vai trò lượt A | Vai trò lượt B | Vai trò lượt C |
 | --- | --- | --- | --- | --- |
-| [Nhập Tên Bạn Vào Đây] | [Nhập MSSV] | Thực hiện toàn bộ | Thực hiện toàn bộ | Thực hiện toàn bộ |
+| Đoàn Diệu Linh | 2A202602185 | Thực hiện toàn bộ | Thực hiện toàn bộ | Thực hiện toàn bộ |
